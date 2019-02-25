@@ -47,11 +47,12 @@
 				</nav><!-- .footer-navigation -->
 			<?php endif; ?>
 		</div><!-- .site-info -->
+		
 	</footer><!-- #colophon -->
 
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<script src='//vws.responsivevoice.com/v/e?key=YgZmr6WG'></script>
 </body>
 </html>
